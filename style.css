@@ -34,25 +34,25 @@ a {
     text-decoration: none;
 }
 body p a {
-    color: #000000;
+    color: #ed35a8;
     text-decoration: none;
 }
 
 body p a:link {
-    color: #000000;
+    color: #ed35a8;
     text-decoration: none;
 }
 body p a:visited {
     text-decoration: none;
-    color: #000000;
+      color: #ed35a8;
 }
 body p a:hover {
     text-decoration: underline;
-    color: #000000;
+   color: #ed35a8;
 }
 body p a:active {
     text-decoration: none;
-    color: #000000;
+   color: #ed35a8;
 }
 
 body h3 a {
