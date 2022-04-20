@@ -4,9 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Rubik:wght@400;600&display=swap');
 
-  .site-header, .entry-header, #osu-branding, .site-footer, .u-osu-powered{
-  display: none !important;
-  }
 
 
 h1 {
