@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Rubik:wght@400;600&display=swap');
+
+  .site-header, .entry-header, #osu-branding, .site-footer, .u-osu-powered{
+  display: none !important;
+  }
+
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+	font-weight: 600;
+}
+
+h3 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+}
+a {
+    font-weight: 700;
+	color: #000000;
+    text-decoration: none;
+}
+body p a {
+    color: #000000;
+    text-decoration: none;
+}
+
+body p a:link {
+    color: #000000;
+    text-decoration: none;
+}
+body p a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+body p a:hover {
+    text-decoration: underline;
+    color: #000000;
+}
+body p a:active {
+    text-decoration: none;
+    color: #000000;
+}
+
+body h3 a {
+	font-family: 'Rubik', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+
+body h3 a:link {
+	font-family: 'Rubik', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+body h3 a:visited {
+	font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    color: #000000;
+}
+body h3 a:hover {
+	font-family: 'Rubik', sans-serif;
+    text-decoration: underline;
+    color: #000000;
+}
+body h3 a:active {
+	font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    color: #000000;
+}
+
+body h1 a {
+	font-family: 'Rubik', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+
+body h1 a:link {
+	font-family: 'Rubik', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+body h1 a:visited {
+	font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    color: #000000;
+}
+body h1 a:hover {
+	font-family: 'Rubik', sans-serif;
+    text-decoration: underline;
+    color: #000000;
+}
+body h1 a:active {
+	font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    color: #000000;
+}
+body p em {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;	
+}
