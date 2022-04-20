@@ -6,8 +6,9 @@
 
 
 body {
-  background-image: linear-gradient(to bottom right, red, yellow);
+  background-image: linear-gradient(to bottom right, rgba(0,0,0,0), rgba(232,166,107,1));
 }
+
 
 
 
