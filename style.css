@@ -4,7 +4,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Rubik:wght@400;600&display=swap');
 
-
+body {
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
 
 h1 {
     font-family: 'Rubik', sans-serif;
