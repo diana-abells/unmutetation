@@ -39,20 +39,20 @@ body p a {
 }
 
 body p a:link {
-    color: #ed35a8;
+    color: #000000;
     text-decoration: none;
 }
 body p a:visited {
     text-decoration: none;
-      color: #ed35a8;
+      color: #000000;
 }
 body p a:hover {
     text-decoration: underline;
-   color: #ed35a8;
+   color: #000000;
 }
 body p a:active {
     text-decoration: none;
-   color: #ed35a8;
+   color: #000000;
 }
 
 body h3 a {
